@@ -1,0 +1,16 @@
+{
+    "name": "dependify-resolver",
+    "version": "1.0.0",
+    "description": "Dependency resolver for Dependify",
+    "main": "src/resolver.ts",
+    "scripts": {
+      "build": "tsc"
+    },
+    "dependencies": {
+      "typescript": "^4.4.4"
+    },
+    "devDependencies": {
+      "@types/node": "^16.7.10"
+    }
+  }
+  
