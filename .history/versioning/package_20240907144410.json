@@ -1,0 +1,16 @@
+{
+    "name": "dependify-versioning",
+    "version": "1.0.0",
+    "description": "Versioning logic for Dependify",
+    "main": "src/versioning.ts",
+    "scripts": {
+      "build": "tsc"
+    },
+    "dependencies": {
+      "typescript": "^4.4.4"
+    },
+    "devDependencies": {
+      "@types/node": "^16.7.10"
+    }
+  }
+  
