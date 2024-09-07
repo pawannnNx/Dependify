@@ -1,0 +1,16 @@
+{
+    "name": "dependify-integration",
+    "version": "1.0.0",
+    "description": "IDE integration for Dependify",
+    "main": "src/vsCode.ts",
+    "scripts": {
+      "build": "tsc"
+    },
+    "dependencies": {
+      "typescript": "^4.4.4"
+    },
+    "devDependencies": {
+      "@types/node": "^16.7.10"
+    }
+  }
+  
