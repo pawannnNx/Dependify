@@ -1,0 +1,16 @@
+{
+    "name": "dependify-core",
+    "version": "1.0.0",
+    "description": "Core logic for Dependify",
+    "main": "src/core.ts",
+    "scripts": {
+      "build": "tsc"
+    },
+    "dependencies": {
+      "typescript": "^4.4.4"
+    },
+    "devDependencies": {
+      "@types/node": "^16.7.10"
+    }
+  }
+  
